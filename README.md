@@ -1,4 +1,8 @@
+<div align="center">
+  <h1>¡Hola! Soy Jeampy 👋</h1>
+  <h3>Estudiante de Ingeniería en Software · Ambato, Ecuador</h3>
 
+  <p>
     Me interesa el desarrollo de software, las estructuras de datos,
     Linux y las redes. Aquí comparto proyectos y aprendizajes de mi camino
     en Ingeniería en Software.
