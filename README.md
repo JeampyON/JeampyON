@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>¡Hola! Soy Jeampy 👋</h1>
+  <h1>¡Hola! Soy Jeampyierre Ortiz👋</h1>
   <h3>Estudiante de Ingeniería en Software · Ambato, Ecuador</h3>
 
   <p>
